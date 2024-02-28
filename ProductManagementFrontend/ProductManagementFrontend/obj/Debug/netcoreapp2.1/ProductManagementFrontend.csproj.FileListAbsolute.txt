@@ -1,0 +1,74 @@
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.deps.json
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.runtimeconfig.json
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.runtimeconfig.dev.json
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.dll
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.csproj.CoreCompileInputs.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.RazorAssemblyInfo.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.RazorAssemblyInfo.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.AssemblyInfoInputs.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.AssemblyInfo.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.TagHelpers.input.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.TagHelpers.output.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.RazorCoreGenerate.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.RazorTargetAssemblyInfo.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.RazorTargetAssemblyInfo.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.pdb
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.Views.dll
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.Views.pdb
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.csprojAssemblyReference.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.Views.pdb
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.dll
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.pdb
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.csproj.CopyComplete
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.deps.json
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.runtimeconfig.json
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.runtimeconfig.dev.json
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.dll
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.pdb
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.Views.dll
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\bin\Debug\netcoreapp2.1\ProductManagementFrontend.Views.pdb
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.csprojAssemblyReference.cache
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.csproj.CoreCompileInputs.cache
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.RazorAssemblyInfo.cache
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.RazorAssemblyInfo.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.AssemblyInfoInputs.cache
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.AssemblyInfo.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.TagHelpers.input.cache
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.TagHelpers.output.cache
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.RazorCoreGenerate.cache
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.RazorTargetAssemblyInfo.cache
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.RazorTargetAssemblyInfo.cs
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.Views.pdb
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.dll
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.pdb
+E:\Test\New folder\NET\ProductManagementFrontend\ProductManagementFrontend\obj\Debug\netcoreapp2.1\ProductManagementFrontend.csproj.CopyComplete

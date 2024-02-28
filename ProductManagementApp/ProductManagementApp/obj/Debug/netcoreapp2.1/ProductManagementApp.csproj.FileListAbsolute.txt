@@ -1,0 +1,28 @@
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\bin\Debug\netcoreapp2.1\ProductManagementApp.deps.json
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\bin\Debug\netcoreapp2.1\ProductManagementApp.runtimeconfig.json
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\bin\Debug\netcoreapp2.1\ProductManagementApp.runtimeconfig.dev.json
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\bin\Debug\netcoreapp2.1\ProductManagementApp.dll
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.csprojAssemblyReference.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.RazorAssemblyInfo.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.RazorAssemblyInfo.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.AssemblyInfoInputs.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.AssemblyInfo.cs
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.RazorTargetAssemblyInfo.cache
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\bin\Debug\netcoreapp2.1\ProductManagementApp.pdb
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.dll
+C:\Users\TrueCOlor\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.pdb
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\bin\Debug\netcoreapp2.1\ProductManagementApp.deps.json
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\bin\Debug\netcoreapp2.1\ProductManagementApp.runtimeconfig.json
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\bin\Debug\netcoreapp2.1\ProductManagementApp.runtimeconfig.dev.json
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\bin\Debug\netcoreapp2.1\ProductManagementApp.dll
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\bin\Debug\netcoreapp2.1\ProductManagementApp.pdb
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.csprojAssemblyReference.cache
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.csproj.CoreCompileInputs.cache
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.RazorAssemblyInfo.cache
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.RazorAssemblyInfo.cs
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.AssemblyInfoInputs.cache
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.AssemblyInfo.cs
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.RazorTargetAssemblyInfo.cache
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.dll
+E:\Test\New folder\NET\ProductManagementApp\ProductManagementApp\obj\Debug\netcoreapp2.1\ProductManagementApp.pdb
